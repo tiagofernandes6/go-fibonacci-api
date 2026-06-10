@@ -14,7 +14,7 @@ on:
       ssh_username:
         description: 'EC2 SSH username (e.g. student01)'
         required: true
-        default: 'student06'
+        default: 'student'
       student_number:
         description: 'Student number (81-90) — maps to port 808<Student Number>'
         required: true
